@@ -1,4 +1,4 @@
-# NLP Assignment 2
+# Contractive Tree LSTM for Sentiment Classification
 This readme contains all necessary instructions on how our results reported as part of the "Further Research" section can be reproduced.
 
 First, install pandas.
